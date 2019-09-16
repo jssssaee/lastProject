@@ -1,0 +1,13 @@
+//     function Infor(gif,title,title1,buttn,url,img){
+//         this.gif=gif,
+//         this.title=title,
+//         this.title1=title1,
+//         this.buttn=buttn,
+//         this.url=url,
+//         this.img=img
+//     } 
+//     let infor1=new Infor("valentine gift1","Fresh Your Mind1","& Feeling love1","shop now1","shop.html","assets/img/slider/home1-slide1.jpg");
+//     let infor2=new Infor("valentine gift2","Fresh Your Mind1","& Feeling love1","shop now2","shop.html","assets/img/slider/home1-slide2.jpg");
+// var infors=[]
+// infors.push(infor1);
+// infors.push(infor2);
